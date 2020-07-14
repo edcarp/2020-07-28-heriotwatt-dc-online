@@ -98,10 +98,13 @@ address.
 <p id="where">
   <strong>Where:</strong>
   {{page.address}}.
+  We will use Zoom for the workshop. Check your email for the link to the room. Please get in touch if you have any issues connecting.
+{% comment %}
   Get directions with
   <a href="//www.openstreetmap.org/?mlat={{page.latlng | replace:',','&mlon='}}&zoom=16">OpenStreetMap</a>
   or
   <a href="//maps.google.com/maps?q={{page.latlng}}">Google Maps</a>.
+{% endcomment %}
 </p>
 {% endif %}
 
