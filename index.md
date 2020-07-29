@@ -11,8 +11,8 @@ humandate: "Jul 28-29, Aug 04-05 2020"    # human-readable dates for the worksho
 humantime: "13:00-17:00"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-28-26      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-08-05        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Evgenij Belikov", "TBA"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["TBA"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+instructor: ["Evgenij Belikov", "Mario Antonioletti"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Robert Nagy"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["e.belikov@epcc.ed.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: ['https://pad.carpentries.org/2020-07-28-heriotwatt-dc-online']
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
