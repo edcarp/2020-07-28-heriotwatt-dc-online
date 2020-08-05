@@ -1,0 +1,24 @@
+
+ Feedback 29.8.2020 R Intro
+
+ Keep:
+
+     focus on tidyverse functions
+
+     Well explained in great details, I really enjoyed it!
+
+     Thank you
+
+     Well covered on multiple aspects
+
+     Really thorough, lots to take in.
+
+
+
+ To improve:
+
+     good practice in R: copy and paste regularly rather than typing
+
+     A little bit hard to follow at the very end, but that is understandable due to limited timing. 
+
+    Some things were too obvious, could have used that time for more complex examples

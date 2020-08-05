@@ -1,0 +1,114 @@
+
+--------------
+ SPREADSHEETS
+
+ Keep:
+
+     exercises
+
+     I like the way that this workshop starts with principles of tidy data in an excel sheet (a tool we may have all used before)
+
+     online format is working well for this workshop
+
+     real-time collaborative document
+
+     infromative 
+
+     Online format is good if you have multiple screens, I suspect for those who don't, it is a bit more challenging
+
+     quick reply via chat
+
+     Collaborative document to share ideas and discuss; examples of how sorting out the data; 
+      could be more useful to have more hands-on practices
+
+     collaborative documents works well, may include some visual promps though
+      A collaborative working enviornment is great to have 
+
+ To improve:
+
+     Place all important URLs at the beginning of the work document
+
+     Very frustrated with Zoom and running this online, as it is not possible to look at the screen and wotk on the file at the same time. 
+       Idelayy, should run on 2 machines!! and audio on the phone. Keeps on throughing me out of the sessions on both colaborative 
+       document and zoom meeting. 
+
+     I believe i missed a general introduction/ welcome when joining the session at 1pm. 
+
+     its easy to drift off for a few seconds with the online format, would be good to have all excercises/ solutions together 
+      to look back at a later time (e.g. the splitting date column excersise, cant find it in the online documents)
+
+     Avoid dublicating links, e.g. https://datacarpentry.org/spreadsheets-socialsci/setup.html and https://figshare.com/articles/SAFI_Survey_Results/6262019
+
+     online format well put together, think I missed the email with the links to download the data etc  +1 
+      (emailed the organisers, got lost somewhere)
+
+-------------
+ OPEN REFINE
+
+
+Keep:
+
+    content is good, covers a lot of data issues
+
+    the live document is an excellent way administer exercises and discuss solutions
+
+    I thought the lesson went well and at a good pace.
+
+    I’m a Linux user and (obviously) dependent on FOSS; but I really liked the community aspect of the carpentry group and 
+      would like to contribute to it (going forward) if I can.
+
+    Really helpful, fine for beginners, which is great.
+
+    very useful information! 
+
+    Good help from Robert!
+   
+    Thank You!
+
+
+To improve:
+
+    pacing - oftentimes I was trying to catch up having submitted an answer to an earlier question
+
+    can you highlight your cursor so we can track your mouse better? would help us keep on track with you
+
+    add a discussion section to the live document do that we don't have to switch between Zoom and pad.carpentries.org
+
+    The issue with virtual lessons, however, is that if I missed a step it can be difficult to go back to a specific point/step. (Ps - I appreciate how diffiuclt it is for you to manage/deliver a virtual session).
+
+    It appears there is a lot of documentation/guidance/resource material available, however, I think accessing or locating it is a bit cumbersome – mainly because there appears to be multiple locations.
+
+    Virtul lessons are very difficult. Probabaly, slowing down the pace, or splitting people into level groups could be helpful. Also, some introductory videos/materials could be useful for beginners to be watched before the workshop. 
+
+     Use one data set for us to work with. Not only does it save space on our own systems, but more importantly saves us one tab when switching around to keep up with you.
+
+     Use a platform that allows captioning (Teams does). I missed a great deal of what you said, plus if it's a permanent stream, it would allow all of us to go back and catch up on directions that we missed switching between Zoom, internet, excel, etc or from tech issues.
+
+
+
+
+===
+
+ SOME FRUSTRATION FROM A PARTICIPANT
+
+Thank you very much for the opportunity to join the Data Carpentry workshop, and all your efforts in organising it.
+
+I have done carpentries in offline format and really enjoyed the experience. I understand that this workshop run in an intensive format, and includes people of different ability and equipment capability.
+
+I have tried my best to work on the workshop in the Zoom format today. It was my first experience with the workshops where I have to work on multiple things  in real time, and unfortunately it is impossible for me to follow it.
+
+Firstly, my machine cannot handle the Zoom properly, for which I found the solution by switching to the audio over the phone, but it took time. Probably it could be a good idea to  suggest that people with slower computers do it. Secondly, Zoom kept on connecting and reconnecting, and so did the collaboration file. This drew my focus away from the workshop constantly.
+
+And in general, it is very difficult to follow from the laptop, constantly switching between screens, and trying to follow the audio. You probably should recommend that people have at least 2 screens for this workshop format, or make pauses for people to catch up.
+
+I have downloaded all the software before the workshop, but could not launch OpenRefine in a few seconds, as you did in the workshop, because it was not straightforward. You probably should give more time for people to catch up on this stage, or should suggest that people practice opening the software and the data files before the workshop, or during the break.
+
+This is of course, if you are targeting slower, less technical people, or people with slower computers, like me 😊
+
+Anyway, by the time I figured out how to launch the software, the discussion moved forward so much, that I could not catch up, or even understand what was going on.  So, I am sorry, I had to leave the meeting, because the frustration was just too much to handle. I am not sure if there is any point to re-join the course after having missed an hour of it. Please, let me know if it is still ok to continue.
+
+This is in no way an attempt to blame you, and maybe these are only my issues. But as an educator I also believe that online courses need adjustment in terms of allocating more time for catch up, and clear instructions for preparation before the course (lie things that are important and may be messy in real time)
+
+Thank you very much, and looking forward to more (hopefully offline) workshops.
+
+

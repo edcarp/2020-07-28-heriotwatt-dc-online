@@ -1,0 +1,41 @@
+ 
+Feedback 4.8.20 (R contd.)
+
+
+R Data Analysis
+
+
+Keep:
+
+     It is very helpful to have tutors tagging along the workshop to explain what went wrong in the error messages and offer additional advice, other than the instructor's teaching
+
+     Thorough explanation on the details, short keys and varieties of a function
+
+     
+To improve:
+
+     A bit confused on which conversation board to use (here or zoom?), could have make a fixed arragement perhaps?
+
+     
+
+R Visualisaiton
+
+Keep:
+
+    Worked examples and exercises
+                                     
+    The presenters knowledge of the language is apparent, and I enjoy when they add their own opinions and tips as they are going through the workshop steps (so long as it doesn't delay the progress of the workshop).
+
+     prompt and helpful answer in chat
+
+     
+
+To improve:
+
+     Overall pace of delivery - slow at start then rushing through material at end so difficult to keep up and take in all information
+
+    In this workshop I found the continued interruption of the presenter by one of the helpers distracting, appeared to disrupt the flow of the lesson, and was a little frustrating.
+
+     What do we need to install for tomorrow's lesson? Is installing DB.Browser for SQLite is sufficient? 
+
+     

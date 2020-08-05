@@ -1,0 +1,33 @@
+
+Feedback (SQL session, 4th half-day session), 5.8.2020
+
+
+Thanks for organising the hands-on workshop. Appreciated.  +1
+Although I enjoyed learning about SQlite, I'm unsure why this may be used as opposed to OpenRefine.  For example, is DQlite to be used to 'clean' data and sort it for analysis?  Or is it a  tool to be used for outputing data for reuse by someone else?
+Thanks lot of examples covered with quite details.
+
+Keep:
+
+     the syntax and operations are worth keeping
+
+     The excercises make this session exceptionally fun
+
+     Informative and friendly sessions +1
+
+     Again, well taught (as was the case for the other workshops) +1
+
+
+
+To improve:
+
+     The command line demostration is complete black screen and I was not able to see anything. Found an URL on this problem, but I was not able to use this solution (https://support.zoom.us/hc/en-us/articles/202082128-Black-Screen-During-Screen-Sharing) Thought to share here anyway.
+
+     perhaps spend a little more time on joins? 
+
+     As a brand new beginner for SQL, I find it a little bit difficult to concentrate taking all information, especially the last 30 mins.
+
+     The last session was quite fast and hard to catch up.
+
+    Emphasing and addressing the motivaiton and strengths of using SQlite over other tools (e.eg, OpenRefine, etc)
+
+    remind everyone to install software the ws prior, so no need to catch up and get lost/ wait for participants
